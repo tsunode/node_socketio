@@ -10,7 +10,7 @@ class RoomSocket {
     this.socket = socket;
   }
 
-  public events() {
+  public events(): void {
     this.socket.on('message', (msg: string) => {
       this.io.emit('message', msg);
     });
