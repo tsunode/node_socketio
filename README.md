@@ -4,6 +4,8 @@
 # node_socketio
 Estrutura node com socket.io
 
+Este projeto foi criado com o intuito de adquir conhecimentos nessa área, e para utilizar de template para novos projetos que necessitem de socket.io
+
 ## Requisitos de instalação
 
 - npm >= 6.0.0
